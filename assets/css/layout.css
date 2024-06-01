@@ -205,23 +205,23 @@ nav .navbar-toggler-icon {
   }
 }
 
-/*Contact Me*/
-#contact {
+/*Price*/
+#price {
   position: relative;
   background-color: rgb(39, 48, 54);
 }
-#contact .container {
+#price .container {
   height: 100%;
   padding-top: 80px;
   padding-bottom: 80px;
 }
-#contact .line {
+#price .line {
   border-bottom: 5px solid #3282b8;
   width: 150px;
   margin: 10px auto 0 auto;
 }
 
-.icon-contact:hover {
+.icon-price:hover {
   color: white !important;
 }
 
@@ -262,4 +262,29 @@ nav .navbar-toggler-icon {
 
 form .error {
   color: rgb(255, 87, 104);
+}
+
+/*Contact Me*/
+#contact {
+  position: relative;
+  background-color: #2b353b;
+}
+#contact .container {
+  height: 100%;
+  padding-top: 80px;
+}
+#contact .line {
+  border-bottom: 5px solid #3282b8;
+  width: 150px;
+  margin: 10px auto 0 auto;
+}
+#contact .project-box {
+  border-radius: 10px;
+  width: 100%;
+  height: 200px;
+  position: relative !important;
+  background-color: rgba(11, 61, 95, 0);
+  transition: box-shadow 0.3s ease-in-out;
+  margin-bottom: 20px;
+  /*padding:150px;*/
 }
