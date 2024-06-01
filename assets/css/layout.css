@@ -288,3 +288,12 @@ form .error {
   margin-bottom: 20px;
   /*padding:150px;*/
 }
+
+.card{
+  background-color: rgba(11, 61, 95, 0.92);
+}
+
+.list-group-item{
+  background-color: rgba(11, 61, 95, 0.92);
+  border: 1px solid #ccc;
+}
