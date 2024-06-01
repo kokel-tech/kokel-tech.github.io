@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fredy-portofolio.iml" filepath="$PROJECT_DIR$/.idea/fredy-portofolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kelep/.idea/kelep.iml" filepath="$PROJECT_DIR$/../kelep/.idea/kelep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webmakarona/.idea/webmakarona.iml" filepath="$PROJECT_DIR$/../webmakarona/.idea/webmakarona.iml" />
+    </modules>
+  </component>
+</project>
